@@ -1,0 +1,12 @@
+select{
+    background-color: lightgray;
+}
+
+.espacio {
+    margin-bottom: 60px;
+    
+}
+.espacioUno {
+    margin-bottom: 0.6em;
+    
+}
